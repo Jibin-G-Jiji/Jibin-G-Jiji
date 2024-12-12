@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-g-jiji&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-g-jiji" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Mearn Stack, Flutter**
-
-- 📫 How to reach me **jibingjiji2003@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+🎓 Bachelor of Computer Applications from Bangalore North University
+🌟 Aspiring MERN Stack Developer
+🚀 Currently diving deep into MERN Stack Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
