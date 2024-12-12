@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-g-jiji&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-g-jiji" /> </p>
 
 🎓 Bachelor of Computer Applications from Bangalore North University
+<br>
 🌟 Aspiring MERN Stack Developer
+<br>
 🚀 Currently diving deep into MERN Stack Web Development
 
 <h3 align="left">Connect with me:</h3>
